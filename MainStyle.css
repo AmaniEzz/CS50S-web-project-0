@@ -156,8 +156,9 @@ table {
   border: 2px solid #c8c8c8;
   letter-spacing: 1px;
   font-size: 0.8rem;
-  margin-top: 40px;
-  margin-left: 40px;
+  width: 35%;
+  height: 50%;
+  margin: 40px;
 }
 
 th {
@@ -174,7 +175,7 @@ td a {
 
 td, th {
   border: 1px solid #bebebe;
-  padding: 20px 40px;
+  padding: 10px 20px;
 }
 
 tr:nth-child(even) td {

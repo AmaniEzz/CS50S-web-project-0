@@ -23,12 +23,12 @@ html {
 }
 
 /* this only worked in internet explor */
-@media (min-width: 500px) {
+@media (min-width: 600px) {
   #main_Header::before{
         content: "Start learning programming today"
       }
   }
-@media (max-width: 499px) {
+@media (max-width: 599px) {
    #main_Header::before{
       content: "Start today!"
     }
